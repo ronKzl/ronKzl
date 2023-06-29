@@ -1,6 +1,6 @@
 <p align="center">
+    <b>Hey 👋 I am Ron. </b><br>
     <i>
-        Hey 👋 I am Ron.<br>
         A software developer undergraduate who is passionate about imporving his problem solving and coding skills.<br>
     </i>
     <br>
