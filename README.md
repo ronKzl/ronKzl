@@ -1,5 +1,9 @@
-### Hi there 👋
 <p align="center">
+    <i>
+        Hey 👋 I am Ron.<br>
+        A software developer undergraduate who is passionate about imporving his problem solving and coding skills.<br>
+        
+    </i><br>
     <a href="https://www.linkedin.com/in/rons05">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
