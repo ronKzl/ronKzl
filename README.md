@@ -8,9 +8,9 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
     <br><br><br>
-    <a href="https://github.com/ronKzl">
+<!--     <a href="https://github.com/ronKzl">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronKzl&theme=tokyonight" />
-    </a>
+    </a> -->
 </p>
 
 ### Languages
