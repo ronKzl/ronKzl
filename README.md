@@ -1,7 +1,7 @@
 <p align="center">
     <b>Hey 👋 I am Ron. </b><br>
     <i>
-        A software developer undergraduate who is passionate about imporving his problem solving and coding skills.<br>
+        A software developer undergraduate who is passionate about learning new concepts, frameworks and ideas while imporving his problem solving and coding skills.<br>
     </i>
     <br>
     <a href="https://www.linkedin.com/in/rons05">
