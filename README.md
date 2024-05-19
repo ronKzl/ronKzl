@@ -1,7 +1,7 @@
 <p align="center">
     <b>Hey 👋 I am Ron. </b><br>
     <i>
-        A software developer undergraduate who is passionate about learning new concepts, frameworks and ideas while imporving his problem solving and coding skills.<br>
+       I’m not in the White House. Tried for that job. I didn’t get it. So all I can do from where I am is to say, ‘All right, how do we get things done from here?’ - Mitt Romney<br>
     </i>
     <br>
     <a href="https://www.linkedin.com/in/rons05">
